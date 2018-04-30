@@ -1,0 +1,21 @@
+.table-responsive {
+overflow-x: auto;
+min-height: 0.01%;
+}
+
+.table {
+width:1300px;
+}
+
+.scroll-box::-webkit-scrollbar {
+  height: 10px;
+}
+.scroll-box::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background: #eee;
+}
+.scroll-box::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background: #666;
+} 
+
